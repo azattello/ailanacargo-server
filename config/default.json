@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:EbMlxTcjRRqDj83l@ailanacargo.nvuvtt7.mongodb.net/?retryWrites=true&w=majority&appName=ailanacargo",
+    "secretKey" : "mern-secret-key"
+}
